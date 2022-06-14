@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=ssvsxx@gmail.com&logoColor=white&link=mailto:ssvsxx@gmail.com)](mailto:ssvsxx@gmail.com)
-  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=ssvsxx@naver.com&logoColor=white&link=mailto:ssvsxx@naver.com)](mailto:ssvsxx@naver.com)
+  [![Gmail Badge](https://img.shields.io/badge/ssvsxx@gmail.com-d14836?style=flat-square&logo=ssvsxx@gmail.com&logoColor=white&link=mailto:ssvsxx@gmail.com)](mailto:ssvsxx@gmail.com)
+  [![Naver Badge](https://img.shields.io/badge/ssvsxx@naver.com-03C75A?style=flat-square&logo=ssvsxx@naver.com&logoColor=white&link=mailto:ssvsxx@naver.com)](mailto:ssvsxx@naver.com)
 
 <!--
 **jjw213/jjw213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
