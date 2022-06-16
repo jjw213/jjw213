@@ -28,9 +28,13 @@
   
 現在、[株式会社 グローバルイン](https://www.globalin.kr/)でJAVA&Big Data開発者の教育を受けています。
 
-
+<br/>
+ 
 ## 🛠Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjw213&layout=compact)](https://github.com/jjw213/jjw213)
+ 
+ <div text-align="left">
+ 
 ### ⌨️Language & Framework
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> 
 
@@ -40,12 +44,18 @@
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
+ <br/>
+ 
 ## 📖Currently Studying
 <img src="https://img.shields.io/badge/R-276dc3?style=flat-square&logo=R&logoColor=white"/>
 
+ <br/><br/>
+ 
 ## 🖥Tools
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
 
+  <br/>
+  
 ____
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjw213)](https://github.com/jjw213)
