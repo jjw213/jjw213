@@ -1,6 +1,8 @@
-### Hi there 👋
+
 
 <div align="center">
+ 
+### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jang%20JinWoo&fontSize=70)
 
@@ -14,15 +16,15 @@
   
 안녕하세요 👋
   
-**웹 프론트엔드**를 희망하며 **백 엔드** 지식도 보유하고 있는 개발자입니다.
+**프론트 엔드**를 희망하며 **백 엔드** 지식도 보유하고 있는 개발자입니다.
   
-현재 [주식회사 글로벌인](https://www.globalin.kr/)서 JAVA&Big Data 개발자 양성 과정을 교육받고 있습니다.
+현재 [주식회사 글로벌인](https://www.globalin.kr/)에서 JAVA&Big Data 개발자 양성 과정을 교육받고 있습니다.
 
 #### Jp
 
-はじめまして　👋
+はじめまして👋
   
-**Web Applicaton** を目標として成長している開発者です。
+**Web Applicaton** の開発を目指して成長している開発者です。
   
 現在、[株式会社 グローバルイン](https://www.globalin.kr/)でJAVA&Big Data開発者の教育を受けています。
 
