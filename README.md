@@ -51,6 +51,8 @@
 ## 📖Currently Studying
 <img src="https://img.shields.io/badge/R-276dc3?style=flat-square&logo=R&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Algorithms-00BCB4?style=flat-square&logo=The Algorithms&logoColor=white"/>
+
  <br/><br/>
  
 ## 🖥Tools
