@@ -30,6 +30,11 @@
   
 現在、[株式会社 グローバルイン](https://www.globalin.kr/)でJAVA&Big Data開発者の教育を受けています。
 
+## Information
+|포트폴리오|
+|--|
+|[Notion_Link](https://troubled-clematis-c16.notion.site/d22edd800ee448049ad966429e05d945)|
+
 <br/>
  
 ## 🛠Tech Stack
