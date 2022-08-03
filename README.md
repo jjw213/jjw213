@@ -20,7 +20,7 @@
   
 **프론트 엔드**와 **백 엔드** 지식도 보유하고 있는 **풀 스택(Full-Stack)** 개발자입니다.
   
-현재 [주식회사 글로벌인](https://www.globalin.kr/)에서 JAVA&Big Data 개발자 양성 과정을 교육받고 있습니다.
+현재 [주식회사 타라소프트](https://tarasoft.kr/)에서 R&D 개발자로 근무하고 있습니다.
 
 #### Jp
 
@@ -28,12 +28,17 @@
   
 **Web Applicaton** の開発を目指して成長している開発者です。
   
-現在、[株式会社 グローバルイン](https://www.globalin.kr/)でJAVA&Big Data開発者の教育を受けています。
+現在、[株式会社 TARA SOFT](https://tarasoft.kr/)でいます。
 
 ## Information
 |포트폴리오|
 |--|
 |[Notion_Link](https://troubled-clematis-c16.notion.site/d22edd800ee448049ad966429e05d945)|
+
+<br/>
+
+## 🏢 Career
+- (2022.08 ~ ) - **타라소프트** - [웹 백엔드]
 
 <br/>
  
