@@ -28,7 +28,7 @@
   
 **Web Applicaton** の開発を目指して成長している開発者です。
   
-現在、[株式会社 TARA SOFT](https://tarasoft.kr/)でいます。
+現在、[株式会社 TARA SOFT](https://tarasoft.kr/)で働いています。
 
 ## Information
 |포트폴리오|
