@@ -20,7 +20,6 @@
   
 **프론트 엔드**와 **백 엔드** 지식도 보유하고 있는 **풀 스택(Full-Stack)** 개발자입니다.
   
-현재 [주식회사 타라소프트](https://tarasoft.kr/)에서 프론트엔드 개발자로 근무하고 있습니다.
 
 #### Jp
 
@@ -28,7 +27,7 @@
   
 **Web Applicaton** の開発を目指して成長している開発者です。
   
-現在、[株式会社 TARA SOFT](https://tarasoft.kr/)で働いています。
+[株式会社 TARA SOFT](https://tarasoft.kr/)で働きました。
 
 ## Information
 |포트폴리오|
