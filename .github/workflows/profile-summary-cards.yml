@@ -13,8 +13,8 @@ on:
          runs-on: ubuntu-latest
           steps:
               - uses: actions/checkout@v4
-               - uses: vn7n     24fzkq/github-profile-summary-cards@release
-                 env      :
+               - uses: vn7n24fzkq/github-profile-summary-cards@release
+                 env:
                       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                       with:
+                with:
                             USERNAME: ${{ github.repository_owner }}
